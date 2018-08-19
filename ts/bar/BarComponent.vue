@@ -11,13 +11,13 @@
         @Prop()
         commonProp:BarModel
 
-        doWatAction() {
+        doBarAction() {
         }
     }
 
     class BarModel {
 
-        watChild: BarModel
+        barChild: BarModel
 
         children: BarModel[]
 
