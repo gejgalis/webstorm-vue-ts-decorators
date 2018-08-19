@@ -1,0 +1,15 @@
+{
+  "name": "webstorm-vue-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.17",
+    "vue-property-decorator": "^7.0.0"
+  }
+}
